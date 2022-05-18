@@ -4,7 +4,7 @@ body {
 }
 .b-header {
     display:flex;
-    background-size: 320px 88px;
+    height:88px;
 }
 .b-header__item {
    margin: 24px 0 24px 16px;
